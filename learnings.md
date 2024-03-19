@@ -1,0 +1,1 @@
+- press `shift+alt+up` to copy the current line
